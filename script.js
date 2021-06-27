@@ -1,5 +1,4 @@
   !function() {
-alert(1)
 document.body.style.paddingTop = '20px'
 
 !function append_modal() {
